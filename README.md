@@ -3,7 +3,7 @@ In this implementation of the Knight's Tour problem, a chess knight is placed on
 
 Various techniques exist for solving the Knight's Tour problem. This algorithm uses multithreading to efficiently explore potential paths and optimize the search.
 
-![image](https://github.com/user-attachments/assets/9e098789-fd8d-426a-8a09-0cc095252d05)
+![gif](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
 
 _This gif is taken from [wikipedia](https://en.wikipedia.org/wiki/Knight%27s_tour)._
 
